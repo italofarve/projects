@@ -7,4 +7,6 @@
 - [Machine learning and Natural Language Processing - benchmarking models](https://github.com/italofarve/projects/blob/main/otros_modelos_nlp.ipynb)
 - [Machine Learning, Random Forest - Risk of users](https://github.com/italofarve/projects/blob/main/Random_Forest_Risk_of_users_.ipynb)
 
+
+Note: Some of the information or data has been hidden or anonymised.
 Updated: jun 2022
