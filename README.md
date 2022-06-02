@@ -7,7 +7,7 @@ Updated: jun 2022
 - [Computer Vision and Google AutoML](https://github.com/italofarve/projects/blob/main/Google_Automl_vision_artificial.ipynb)
 - [Machine learning and Natural Language Processing - text classification]( https://github.com/italofarve/projects/blob/main/natural_language_processing_text_classification.ipynb)
 - [Machine learning and Natural Language Processing - benchmarking models](https://github.com/italofarve/projects/blob/main/otros_modelos_nlp.ipynb)
-- [Machine Learning, Random Forest - Risk of users](https://github.com/italofarve/projects/blob/main/Random_Forest_Risk_of_users_.ipynb)
+- [Machine Learning, Random Forest - Fraud risk of users](https://github.com/italofarve/projects/blob/main/Random_Forest_Risk_of_users_.ipynb)
 
 
 
