@@ -11,7 +11,7 @@ Updated: jun 2022
 - Designing AI System aligned business goal
 - Audit of technological tools
 - Analysing technology needs of emerging companies
-- How to design AI systems that comply with European regulation
+- How to design AI systems that comply with European Regulation of Artificial Intelligence
 
 
 
