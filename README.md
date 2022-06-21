@@ -8,6 +8,7 @@ Updated: jun 2022
 - [Machine learning and Natural Language Processing - text classification]( https://github.com/italofarve/projects/blob/main/natural_language_processing_text_classification.ipynb)
 - [Machine learning and Natural Language Processing - benchmarking models](https://github.com/italofarve/projects/blob/main/otros_modelos_nlp.ipynb)
 - [Machine Learning, Random Forest - Fraud risk of users](https://github.com/italofarve/projects/blob/main/Random_Forest_Risk_of_users_.ipynb)
+- Paso a paso en un Proyecto Machine Learning (definición y comprensión del problema, exploración y preparación de datos, selección de modelos, interpretabilidad, despliegue del modelo. Keywords: Python, Scikit-learn, pandas, dataprep, keras, machine learning, deeplearning)
 - Designing AI System aligned business goal
 - Audit of technological tools
 - Analysing technology needs of emerging companies
